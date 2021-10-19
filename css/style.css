@@ -6,3 +6,14 @@ body {
   width: 980px;
   margin: 0 auto;
 }
+
+.header {
+  background-color: #F5B4B3;
+  height: 50px;
+  font-size: 1.5rem;
+}
+
+.logo_image {
+  width: 110px;
+  margin: 0;
+}
