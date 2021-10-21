@@ -19,6 +19,10 @@ body {
   margin: 0;
 }
 
+.image_area {
+  width: 100%;
+}
+
 ul.top_menu {
   float: right;
 }
