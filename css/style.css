@@ -1,17 +1,17 @@
 html {
   font-size: 62.5%;
+  height: 100%;
 }
 
 body {
-  width: 980px;
-  margin: 0 auto;
+  height: 100%;
 }
 
 .container {
   width: 980px;
   margin: 0 auto;
-  min-height: 100%;
   position: relative;
+  min-height: 100%;
 }
 
 .header {
